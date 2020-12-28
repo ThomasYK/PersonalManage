@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # personThoamsYoungmanage
-=======
-# personm-YangKUn-anage
->>>>>>> 7dcde6e300f3e5f01080dec8ab1ecb1b4f8f5f5b
 
 ## Project setup
 ```
